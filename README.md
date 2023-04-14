@@ -12,7 +12,7 @@ Provides a clean and simple user interface
 
 # Glimpse
 ![alt text](https://github.com/brat-blip/MemeBhandaar/blob/master/1.jpg)
-![alt text](http://url/to/img.png)
+
 ![alt text](https://github.com/brat-blip/MemeBhandaar/blob/master/2.jpg)
 
 
