@@ -9,7 +9,11 @@ Allows users to share memes with others
 Provides a "Next" button to browse through memes
 Handles network connectivity issues gracefully
 Provides a clean and simple user interface
-Screenshots
+
+# Glimpse
+![alt text](https://github.com/brat-blip/MemeBhandaar/blob/master/1.jpg)
+![alt text](http://url/to/img.png)
+![alt text](https://github.com/brat-blip/MemeBhandaar/blob/master/2.jpg)
 
 
 # Getting Started
